@@ -1,16 +1,16 @@
-typography_spectrum: 0.4042091127485037
+layout_spectrum: 0.336352386046201
+typography_spectrum: 0.47968403180129826
 color:
-  brandStrength: 0.06129352981224656
-  lightness: 0.9769394828472286
-  saturation: 0.04151478875428438
-  rhythmicContrast: 0.5842061429284513
+  brandStrength: 0.6380699770525098
+  lightness: 0.38123694993555546
+  saturation: 0.6728517359588295
+  rhythmicContrast: 0.618555850815028
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-layout_spectrum: 0.8699130155146122
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
 name: Ware Agency
 navigation:
   - name: Ware Agency Farmers Page
