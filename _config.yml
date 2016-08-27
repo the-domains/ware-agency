@@ -1,4 +1,3 @@
-layout_spectrum: 0.8699130155146122
 typography_spectrum: 0.4042091127485037
 color:
   brandStrength: 0.06129352981224656
@@ -6,9 +5,11 @@ color:
   saturation: 0.04151478875428438
   rhythmicContrast: 0.5842061429284513
   brandColors:
-    - '#FEFEFE'
-    - '#283890'
-    - '#767CB9'
-    - '#BBC3DC'
-    - '#A82A31'
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+layout_spectrum: 0.8699130155146122
 name: Ware Agency
+title: 'Ware Agency, Farmers Insurance'
