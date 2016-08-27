@@ -12,5 +12,9 @@ color:
     - '#A2E3C4'
 layout_spectrum: 0.8699130155146122
 name: Ware Agency
+navigation:
+  - name: Ware Agency Farmers Page
+    url: 'https://agents.farmers.com/ca/fresno/nicholas-ware'
+    type: external
 title: 'Ware Agency, Farmers Insurance'
 description: 'We have your life in mind! '
