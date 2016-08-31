@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Ware Agency, Farmers Insurance]]></title>
+        <description><![CDATA[Ware Agency, Farmers Insurance]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 29 Aug 2016 19:33:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Understanding Auto Coverage 1]]></title>
+            <description><![CDATA[<article><h1>Understanding Auto Coverage 1</h1><p>What do the limits of your coverage mean?</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/2369da09a3e7c5403738a6b96f681ea6/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FsqK-3n1HlvY%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://youtu.be/sqK-3n1HlvY</link>
+            <guid isPermaLink="false">560f7b85-af32-4f1d-97af-4ed19b909b32</guid>
+            <pubDate>Mon, 29 Aug 2016 19:33:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
