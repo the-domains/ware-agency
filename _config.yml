@@ -26,5 +26,8 @@ navigation:
   - name: Ware Agency Youtube Channel
     url: 'https://www.youtube.com/channel/UC6gR-3tCi7rly456XWyaH2A'
     type: external
+  - name: Latest Blog Post
+    id: da403bbe-3405-4d86-a86c-375228d9ab5d
+    type: content
 title: 'Ware Agency, Farmers Insurance'
 description: 'We have your life in mind! '
