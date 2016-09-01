@@ -29,5 +29,8 @@ navigation:
   - name: Ware Agency Farmers Page
     url: 'https://agents.farmers.com/ca/fresno/nicholas-ware'
     type: external
+  - name: Latest Video
+    url: 'https://youtu.be/k72CiAPWDZM'
+    type: external
 title: 'Ware Agency, Farmers Insurance'
 description: 'We have your life in mind! '
