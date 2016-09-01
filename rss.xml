@@ -2,10 +2,24 @@
     <channel>
         <title><![CDATA[Ware Agency, Farmers Insurance]]></title>
         <description><![CDATA[Ware Agency, Farmers Insurance]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ware-agency/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Aug 2016 19:33:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 29 Aug 2016 23:27:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ware-agency/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome! ]]></title>
+            <description><![CDATA[<article><h1>Welcome! </h1><p>Welcome to the website of the Ware Agency! We are proud to be a Farmers Insurance Agency and are located on Maple and Nees in Fresno, California. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9adc7ad-3e6d-4c65-8a24-55c4c2f3e84e.png"></article>]]></description>
+            <link>https://thegrid.ai/ware-agency/welcome/index.html</link>
+            <guid isPermaLink="false">da403bbe-3405-4d86-a86c-375228d9ab5d</guid>
+            <pubDate>Mon, 29 Aug 2016 23:09:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Nick Ware, Farmers Insurance Agency, Fresno, California. 276 likes &middot; 7 talking about this &middot; 27 were here. I&apos;m here to help provide protection for you and..." src="https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/13906595_1594881184145803_8844372448098996225_n.jpg?oh=06facce22949a022e1bc78f8e0e01d5e&oe=5885ADF3">]]></description>
+            <link>https://www.facebook.com/NWFarmers/videos/1590412017926053/</link>
+            <guid isPermaLink="false">6fd74d32-4bdf-4bb4-86c8-f287afe538da</guid>
+            <pubDate>Mon, 29 Aug 2016 23:27:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Understanding Auto Coverage 1]]></title>
             <description><![CDATA[<article><h1>Understanding Auto Coverage 1</h1><p>What do the limits of your coverage mean?</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/2369da09a3e7c5403738a6b96f681ea6/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FsqK-3n1HlvY%2Fmaxresdefault.jpg"></article>]]></description>
