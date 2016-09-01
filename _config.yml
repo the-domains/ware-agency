@@ -17,9 +17,6 @@ author:
   url: 'https://agents.farmers.com/ca/fresno/nicholas-ware'
 name: Ware Agency
 navigation:
-  - name: Latest Video
-    id: 6fd74d32-4bdf-4bb4-86c8-f287afe538da
-    type: content
   - name: Latest Blog Post
     id: da403bbe-3405-4d86-a86c-375228d9ab5d
     type: content
